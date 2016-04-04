@@ -1,3 +1,4 @@
 object HelloWorld extends App {
-	Console.println("Ciao mondo")
+	println(s"-- start program v${Version.v}")
+	println("Ciao mondo")
 }
